@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TABLE PUBLIC "table.dtd">
+<TABLE>
+	<STUDENT NAME="Сенин">
+		<MARK SUBJECT="Мультимедиа">4</MARK>
+		<MARK SUBJECT="Веб-дизайн">5</MARK>
+		<MARK SUBJECT="Реактивное программирование">5</MARK>
+	</STUDENT>
+	<STUDENT NAME="Иванов">
+		<MARK SUBJECT="Мультимедиа">3</MARK>
+		<MARK SUBJECT="Веб-дизайн">5</MARK>
+		<MARK SUBJECT="Логика">5</MARK>
+		<MARK SUBJECT="Графика">4</MARK>
+	</STUDENT>
+	<STUDENT NAME="Петрова">
+		<MARK SUBJECT="Мультимедиа">3</MARK>
+		<MARK SUBJECT="Логика">5</MARK>
+		<MARK SUBJECT="Графика">4</MARK>
+	</STUDENT>
+</TABLE>
