@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE statistics PUBLIC "visitStat" "https://kodaktor.ru/j/dtd_78a01">
+<statistics>
+    <ip title="Самый частый IP-адрес" addr="077.234.203.101" frequency="12"/>
+    <visits>
+        <platform type="computer">
+            <device name="Windows" frequency="87"/>
+            <device name="Linux" frequency="8"/>
+            <device name="Mac OS X" frequency="6"/>
+        </platform>
+        <platform type="mibile">
+            <device name="iPhone" frequency="5"/>
+            <device name="iPad" frequency="1"/>
+            <device name="Android" frequency="10"/>
+        </platform>
+    </visits>
+    <iplist title="5 наиболее встречающихся адресов в порядке убывания частоты">
+        <ip addr="077.234.203.101" frequency="12"/>
+        <ip addr="005.144.096.251" frequency="11"/>
+        <ip addr="081.222.086.058" frequency="6"/>
+        <ip addr="094.019.018.060" frequency="4"/>
+        <ip addr="005.164.066.173" frequency="4"/>
+    </iplist>
+</statistics>
