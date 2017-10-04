@@ -8,8 +8,8 @@
 
 Здесь обе лабораторные lab1 и lab2 размещенные в разных папках. 
 
-##lab1
+## lab1
 https://kodaktor.ru/g/15092017
 
-##lab2
+## lab2
 https://kodaktor.ru/g/22092017
