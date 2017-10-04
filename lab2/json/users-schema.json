@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "data": {
+    "users": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "login": {
+            "type": "string",
+            "minLength": 1
+          },
+          "password": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "login",
+          "password"
+        ]
+      }
+    }
+  }
+}
