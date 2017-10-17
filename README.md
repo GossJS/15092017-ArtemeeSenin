@@ -13,3 +13,9 @@ https://kodaktor.ru/g/15092017
 
 ## lab2
 https://kodaktor.ru/g/22092017
+
+## lab 3
+https://kodaktor.ru/g/29092017
+
+## lab 4
+https://kodaktor.ru/g/06102017
